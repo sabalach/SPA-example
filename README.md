@@ -7,16 +7,16 @@ To initialize run
   npm install
 
 For Test:
-  run: yarn dev 
+  yarn dev 
     or
-  run: npm run dev
+  npm run dev
   
 For Build:
-  run: yarn build 
+  yarn build 
     or
-  run: npm run build
+  npm run build
 
 For Production:
-  run: yarn start
+  yarn start
     or
-  run: npm run start
+  npm run start
